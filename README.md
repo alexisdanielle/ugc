@@ -1,4 +1,4 @@
-collects URLs, like number & count number baed on search keywords and filters for minimum likes & comments 
+collects URLs, like & comment numbers baed on search keywords and filters for minimum likes. 
 
 1. virtual environment
 ```bash
